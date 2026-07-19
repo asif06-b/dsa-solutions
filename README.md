@@ -14,6 +14,7 @@
 | [0006-zigzag-conversion](https://github.com/asif06-b/dsa-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/asif06-b/dsa-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/asif06-b/dsa-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/asif06-b/dsa-solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asif06-b/dsa-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/asif06-b/dsa-solutions/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/asif06-b/dsa-solutions/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/asif06-b/dsa-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
